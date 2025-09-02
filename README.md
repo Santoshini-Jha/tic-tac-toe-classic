@@ -12,7 +12,7 @@
 - 🤝 Draw detection when the board is full
 - ✨ Stylish and responsive UI
 
-  ## 🎮 How to Play
+## 🎮 How to Play
 
 - Open the `index.html` file in your browser.
 - The game is played between two players, **X** and **O**, who take turns.
