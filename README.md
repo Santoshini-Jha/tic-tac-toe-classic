@@ -1,7 +1,6 @@
 # tic-tac-toe-classic
 
-<img width="1660" height="642" alt="Screenshot 2025-09-02 210112" src="https://github.com/user-attachments/assets/a0d17990-fa35-4f66-b9ce-ff42586d328b" />
-
+<img width="814" height="614" alt="Screenshot 2025-09-02 210629" src="https://github.com/user-attachments/assets/b77e3cb8-f1eb-461b-8dce-dbc37bafee30" />
 
 #### A simple and interactive web-based Tic Tac Toe game built with HTML, CSS, and vanilla JavaScript. Playable in the browser with responsive design and win/draw detection.
 
