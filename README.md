@@ -1,4 +1,4 @@
-# tic-tac-toe-classic
+# tic tac toe classic
 
 <img width="814" height="614" alt="Screenshot 2025-09-02 210629" src="https://github.com/user-attachments/assets/b77e3cb8-f1eb-461b-8dce-dbc37bafee30" />
 
